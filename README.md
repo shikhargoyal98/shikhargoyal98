@@ -1,5 +1,7 @@
 Hi, I'm Shikhar Goyal 👋
-Welcome to my profile! I'm a Data Analytics Specialist with 5+ years of experience helping top companies across FMCG, Real Estate, and PC/Print Manufacturing sectors drive user growth, market expansion, and strategic decision-making through the power of data. I’m passionate about leveraging cutting-edge technologies and machine learning to uncover insights and optimize business outcomes.
+
+Welcome to my profile! 
+I'm a Data Analytics Specialist with 5+ years of experience helping top companies across FMCG, Real Estate, and PC/Print Manufacturing sectors drive user growth, market expansion, and strategic decision-making through the power of data. I’m passionate about leveraging cutting-edge technologies and machine learning to uncover insights and optimize business outcomes.
 
 👀 I’m interested in...
 Exploring new ways to apply Data Science, Machine Learning, and AI to solve real-world problems.
