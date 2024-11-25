@@ -33,23 +33,20 @@ Teams or initiatives working on digital transformation projects, especially thos
 
 🧠 Professional Experience
 
-Ernst & Young LLP, India
-Consultant (Data Scientist and Information Analyst)
-Apr '21 - Jul '24 | Bengaluru, IN
+1.) Ernst & Young LLP, India
+    Consultant (Data Scientist and Information Analyst)
+    Apr '21 - Jul '24 | Bengaluru, IN
 
-Developed an AI-driven automation pipeline with Python and Excel to reduce reporting time by 80% and manual effort by 75%.
+  Developed an AI-driven automation pipeline with Python and Excel to reduce reporting time by 80% and manual effort by 75%.
+  Created predictive machine learning models using Random Forest and Logistic Regression to drive data-backed business decisions.
+  Led initiatives in sustainability analytics, forecasting plastic recyclability metrics using Python and Power BI.
 
-Created predictive machine learning models using Random Forest and Logistic Regression to drive data-backed business decisions.
+2.) Bridgei2i Analytics Solutions, India
+    Business Analyst and Data Analyst
+    Jan '19 - Apr '21 | Bengaluru, IN
 
-Led initiatives in sustainability analytics, forecasting plastic recyclability metrics using Python and Power BI.
-
-Bridgei2i Analytics Solutions, India
-Business Analyst
-Jan '19 - Apr '21 | Bengaluru, IN
-
-Spearheaded NLP and OpenCV model development for automating business processes.
-
-Delivered AI-driven market insights, contributing to $3.4B in new business deals and advancing the client’s digital transformation.
+  Spearheaded NLP and OpenCV model development for automating business processes.
+  Delivered AI-driven market insights, contributing to $3.4B in new business deals and advancing the client’s digital transformation.
 
 📚 Education
 
