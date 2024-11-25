@@ -3,23 +3,27 @@ Hi, I'm Shikhar Goyal 👋
 Welcome to my profile! 
 I'm a Data Analytics Specialist with 5+ years of experience helping top companies across FMCG, Real Estate, and PC/Print Manufacturing sectors drive user growth, market expansion, and strategic decision-making through the power of data. I’m passionate about leveraging cutting-edge technologies and machine learning to uncover insights and optimize business outcomes.
 
-👀 I’m interested in...
+👀 I’m interested in
+
 Exploring new ways to apply Data Science, Machine Learning, and AI to solve real-world problems.
 Building predictive models and data pipelines that turn complex datasets into actionable insights.
 Helping businesses optimize operations, make data-driven decisions, and improve sustainability efforts.
 Collaborating with teams to drive digital transformation and enhance business intelligence.
 
-🌱 I’m currently learning...
+🌱 I’m currently learning
+
 Advanced Machine Learning algorithms and their applications in real-world business problems.
 Cloud platforms like Azure to improve data workflows and optimize deployment for enterprise applications.
 Latest techniques in Natural Language Processing (NLP) and Computer Vision for extracting meaningful insights from text and images.
 
-💞️ I’m looking to collaborate on...
+💞️ I’m looking to collaborate on
+
 Projects focused on predictive analytics, sustainability, or AI-driven automation in business processes.
 Opportunities to develop and scale data science models that drive operational efficiencies.
 Teams or initiatives working on digital transformation projects, especially those related to market insights and business intelligence.
 
-📫 How to reach me...
+📫 How to reach me
+
 📧 Email: shikhargoyal98@gmail.com
 🌐 LinkedIn: Shikhar Goyal
 📱 Phone: +1 646-294-4250
